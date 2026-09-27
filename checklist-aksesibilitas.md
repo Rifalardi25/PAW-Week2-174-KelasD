@@ -10,3 +10,5 @@ Heading berurutan dan halaman memiliki title ✅
 <img width="576" height="194" alt="image" src="https://github.com/user-attachments/assets/445f9c13-d267-4b07-a60d-cffd52c2a067" />
 <img width="316" height="47" alt="image" src="https://github.com/user-attachments/assets/184ce7dc-ff00-4e6e-89e2-57f1662d8a83" />
 <img width="518" height="80" alt="image" src="https://github.com/user-attachments/assets/696ad70f-d692-467e-bad7-f93f3c89bb42" />
+Setiap gambar bermakna memiliki alt text ✅
+<img width="487" height="36" alt="image" src="https://github.com/user-attachments/assets/87bd17c9-430f-458c-9af2-04dd73dd9cf9" />
