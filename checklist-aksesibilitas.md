@@ -4,3 +4,5 @@ Elemen semantik digunakan tepat ✅
 <img width="923" height="702" alt="image" src="https://github.com/user-attachments/assets/5bb3b782-5940-49f1-a40c-11b9a45b33c8" />
 Form memiliki label, id, name, dan required bila perlu ✅
 <img width="831" height="657" alt="image" src="https://github.com/user-attachments/assets/0393211d-4597-45db-8836-07e95f097206" />
+Radio/checkbox dikelompokkan dengan fieldset dan legend ✅
+<img width="941" height="300" alt="image" src="https://github.com/user-attachments/assets/4bb853b0-e726-44de-9d32-09617a0098cb" />
